@@ -1,8 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to HS Blog
+published: 2026. 05. 17
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-테스트 인덱스 파일
+- 처음 해 보는데 뭔가 마음대로 되질 않네요.
+- 이것저것 계속 해보려 합니다.
