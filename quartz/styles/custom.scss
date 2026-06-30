@@ -1,3 +1,20 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+blockquote {
+  padding-left: 1rem;
+}
+
+.breadcrumb-container {
+  margin-bottom: 0.5rem;
+}
+.note-properties .note-properties-separator {
+  margin-inline-end: 0.2rem;
+}
+a.internal-link {
+  line-height: 1.6;
+}
+.content-meta {
+  margin: 0.5rem auto 1rem;
+  font-size: 0.8rem;
+}
