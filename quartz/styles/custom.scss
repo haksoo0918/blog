@@ -11,10 +11,23 @@ blockquote {
 .note-properties .note-properties-separator {
   margin-inline-end: 0.2rem;
 }
+a.tag-link,
 a.internal-link {
-  line-height: 1.6;
+  line-height: 1.8;
+  background-color: #c2baf04d !important;
 }
 .content-meta {
   margin: 0.5rem auto 1rem;
   font-size: 0.8rem;
+}
+.tags > li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 0.5rem;
+  background-color: transparent;
+}
+.markdown-rendered {
+  strong {
+    cursor: inherit;
+  }
 }
