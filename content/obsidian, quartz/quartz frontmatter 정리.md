@@ -1,10 +1,13 @@
 ---
+title: Quartz Frontmatter 정리
 tags:
   - obsidian
   - frontmatter
   - yaml
 ---
-읽어보고 사용하거나 기억해두고 싶은거 위주로 적어둠.
+
+quartz에서 지원하는 frontmatter 들이다.
+읽어보고 사용하거나 기억해두고 싶은거 위주로 적어었다.
 
 # Configuration 구성
 
@@ -13,9 +16,7 @@ tags:
 
 ## 기본 설정
 
-`quartz.config.yaml`
-
-```yaml
+```yaml title="quartz.config.yaml"
 - source: github:quartz-community/note-properties
   enabled: true
   options:

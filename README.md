@@ -1,17 +1,14 @@
-# Quartz v5
+# HS Blog
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> 기억하기 위한이 아닌 "기억하지 않기 위한 기록"
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+HS Blog는 생각, 기술, 작업 기록을 담은 개인 블로그 입니다.
+이 저장소는 Quartz로 만든 개인 블로그 사이트의 소스입니다.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🔗 방문하기: https://haksoo0918.github.io/blog
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 소개
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- 개인적인 생각과 메모 정리
+- 기술 학습과 작업 기록
+- 지속적으로 조금씩 계속 수정중
