@@ -1,5 +1,5 @@
 ---
-title: Quartz Frontmatter 정리
+title: Frontmatter 정리
 tags:
   - obsidian
   - frontmatter
