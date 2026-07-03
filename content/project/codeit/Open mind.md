@@ -1,11 +1,11 @@
 ---
-title: 3. Open Mind
+title: 1-3. Open Mind
 tags:
   - codeit
   - front-end
   - react
 date: 2024-11-08
-image: 작업/codeit/src/capture-coworkers.png
+image:
 description: 익명 질문 및 답변 서비스
 link: https://team8-openmind.netlify.app/
 repository: https://github.com/fe11-part2-team8/openmind

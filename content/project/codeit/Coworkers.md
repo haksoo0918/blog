@@ -1,12 +1,12 @@
 ---
-title: 1. Coworkers
+title: 1-1. Coworkers
 tags:
   - codeit
   - front-end
   - react
   - next
 date: 2025-02-07
-image: 작업/codeit/src/capture-coworkers.png
+image: /project/codeit/src/coworkers-1.png
 description: 함께 만드는 투두 리스트인 Coworkers 서비스
 link: https://coworkers-11-4-7.vercel.app/
 repository: https://github.com/Team-7-Coworkers/coworkers

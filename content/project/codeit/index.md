@@ -1,11 +1,11 @@
 ---
-title: Codeit
+title: 1. Codeit
 date: 2025-02-27
 ---
 
 ## 코드잇 부트캠프 - 프론트엔드 개발 과정 수료
 
-> 📅 2024. 08 ~ 2025. 02
+📅 2024. 08 ~ 2025. 02
 
 - 강의 내용
   - 웹의 기본, Git & Github, JavaScript & TypeScript

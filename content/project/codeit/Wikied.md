@@ -1,12 +1,12 @@
 ---
-title: 2. Wikied
+title: 1-2. Wikied
 tags:
   - codeit
   - front-end
   - react
   - next
 date: 2025-01-02
-image: 작업/codeit/src/capture-wikied.png
+image:
 description: 남들이 만드는 나만의 위키 서비스
 link: https://wikied-ten.vercel.app/
 repository: https://github.com/codeitFE11-part3-team7/wikid
