@@ -13,7 +13,6 @@ repository: https://github.com/codeitFE11-part3-team7/wikid
 ---
 
 ![[wikied-1.png]]
-
 ![[wikied-2.png]]
 
 - 남들이 만드는 나만의 위키 서비스를 만들었다.

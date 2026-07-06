@@ -13,7 +13,6 @@ repository: https://github.com/Team-7-Coworkers/coworkers
 ---
 
 ![[coworkers-1.png]]
-
 ![[coworkers-2.png]]
 
 - 함께 만드는 투두 리스트인 Coworkers 서비스를 만들었다.

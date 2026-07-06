@@ -12,7 +12,6 @@ repository: https://github.com/fe11-part2-team8/openmind
 ---
 
 ![[openmind-1.png]]
-
 ![[openmind-2.png]]
 
 - 익명 질문 및 답변 서비스를 만들었다.

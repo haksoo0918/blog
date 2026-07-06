@@ -4,10 +4,11 @@ tags:
   - obsidian
   - frontmatter
   - yaml
+  - quartz
 ---
 
 quartz에서 지원하는 frontmatter 들이다.
-읽어보고 사용하거나 기억해두고 싶은거 위주로 적어었다.
+읽어보고 사용하거나 기억해두고 싶은거 위주로 적어 두었다.
 
 # Configuration 구성
 
