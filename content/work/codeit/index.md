@@ -8,9 +8,9 @@ date: 2025-02-27
 📅 2024. 08 ~ 2025. 02
 
 - 강의 내용
-  - 웹의 기본, Git & Github, JavaScript & TypeScript
-  - React, Next.js 활용
-  - Formatter, Linter, Storybook 등 기타 서비스
+	- 웹의 기본, Git & Github, JavaScript & TypeScript
+	- React, Next.js 활용
+	- Formatter, Linter, Storybook 등 기타 서비스
 - 총 3번의 팀 프로젝트 진행
-  - React, Next.js 기반
-  - Github 다양한 기능을 활용하여 작업
+	- React, Next.js 기반
+	- Github 다양한 기능을 활용하여 작업
