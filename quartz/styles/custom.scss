@@ -20,6 +20,10 @@ a.internal-link {
   margin: 0.5rem auto 1rem;
   font-size: 0.8rem;
 }
+
+.section > .tags {
+  padding-inline-start: 0;
+}
 .tags > li {
   list-style: none;
   display: inline-block;
@@ -31,6 +35,15 @@ a.internal-link {
     cursor: inherit;
   }
 }
+
+// 폴더 페이지에 글 목록 컴포넌트
 li.section-li > .section {
   grid-template-columns: 10em 1fr 1fr;
+}
+
+// 컨텐츠 상세페이지 - 상단 테그 출력 부분
+.note-properties .note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 0.5rem;
 }
