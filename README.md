@@ -12,3 +12,16 @@ HS Blog는 생각, 기술, 작업 기록을 담은 개인 블로그 입니다.
 - 개인적인 생각과 메모 정리
 - 기술 학습과 작업 기록
 - 지속적으로 조금씩 계속 수정중
+
+## 기술
+
+- obsidian
+  - 참고: https://obsidian.md/ko/help/
+- quartz5
+  - 참고: https://quartz.jzhao.xyz/
+
+## 실행
+
+```
+npm run dev
+```
