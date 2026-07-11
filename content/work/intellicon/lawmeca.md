@@ -1,5 +1,5 @@
 ---
-title: 3-2. 법률메카
+title: 법률메카
 tags:
   - 인텔리콘
   - 디씨클럽
@@ -11,12 +11,14 @@ tags:
   - bootstrap
 image: https://haksoo0918.github.io/blog/work/intellicon/src/lawmeca-1.png
 description: 법률 QA 하이브리드 플렛폼
+date: 2021-05-01
 ---
 
 ![[lawmeca-1.png]]
 ![[lawmeca-2.png]]
 
 > [!info]
+>
 > - Web site: https://lawmeca.com/
 
 - 디씨클럽 다닐때 만들었고, 인텔리콘에 입사하여 유지 보수를 이어갔다.

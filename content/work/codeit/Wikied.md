@@ -1,5 +1,5 @@
 ---
-title: 1-2. Wikied
+title: Wikied
 tags:
   - codeit
   - front-end
@@ -15,7 +15,8 @@ repository: https://github.com/codeitFE11-part3-team7/wikid
 ![[wikied-1.png]]
 ![[wikied-2.png]]
 
-> [!info] 
+> [!info]
+>
 > - Web site: https://wikied-ten.vercel.app/
 > - Repository: https://github.com/codeitFE11-part3-team7/wikid
 

@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: 표
+    filters:
+      and:
+        - file.inFolder("work")
+        - file.ext == "md"
+        - file.basename != "index"
+    groupBy:
+      property: date
+      direction: DESC
+    order:
+      - file.name
+    sort: []
+    image: note.image
+    imageAspectRatio: 1.6

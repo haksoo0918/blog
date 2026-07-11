@@ -1,18 +1,21 @@
 ---
-title: 2-1. 라포라포
+title: 라포라포
 tags:
   - curioud
   - raporapo
   - vue
   - publish
-image: https://haksoo0918.github.io/blog/work/curioud/src/raporapo main.png
+image: https://haksoo0918.github.io/blog/work/curioud/src/raporapo-main.png
 description: 대한민국 대표 게이미피케이션 학습 플렛폼
 link: https://www.raporapo.com/
+date: 2023-03-01
 ---
+
 ![[raporapo main.png]]
 ![[raporapo screen.png]]
 
 > [!info]
+>
 > - Web site: https://www.raporapo.com/
 
 - 내가 작업했던 화면 메인 화면은 위에 이미지이다. 지금은 찾아볼 수 없다.

@@ -1,5 +1,5 @@
 ---
-title: 1-1. Coworkers
+title: Coworkers
 tags:
   - codeit
   - front-end
@@ -16,6 +16,7 @@ repository: https://github.com/Team-7-Coworkers/coworkers
 ![[coworkers-2.png]]
 
 > [!info]
+>
 > - Web site: https://coworkers-11-4-7.vercel.app/
 > - Repository: https://github.com/Team-7-Coworkers/coworkers
 
