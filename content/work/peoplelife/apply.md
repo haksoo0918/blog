@@ -5,6 +5,7 @@ tags:
   - publish
   - bootstrap
   - jQuery
+  - ERP
 date: 2017-10-01
 description: 피플라이프 위촉지원 시스템
 image: https://haksoo0918.github.io/blog/work/peoplelife/src/people_apply_login.jpg

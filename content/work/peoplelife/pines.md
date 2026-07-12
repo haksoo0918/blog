@@ -5,6 +5,7 @@ tags:
   - publish
   - jQuery
   - bootstrap
+  - ERP
 date: 2018-02-01
 image: https://haksoo0918.github.io/blog/work/peoplelife/src/pines_login.jpg
 description: 피플라이프 ERP - Pines
