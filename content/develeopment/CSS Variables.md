@@ -7,6 +7,8 @@ draft: "true"
 - css 변수를 생각나는 대로 적어봄
 - 기본과 컴포넌트 단위로 구분해서 정의
 
+## Base
+
 ```css title="base"
 :root {
 	/* color */
@@ -30,11 +32,12 @@ draft: "true"
 	--header-font: ;
 	--body-font: ;
 	--code-font: ;
-	--base-font-size: 1rem;
+	--font-size: 1rem;
+	--line-height: 1.5;
 	
 	/* space */
-	--space-x: .4em;
-	--space-y: .6em;
+	--space-x: 1.5rem;
+	--space-y: 1rem;
 	
 	/* break point */
 	--mobile: ;
@@ -46,12 +49,29 @@ draft: "true"
 	--border-width: 1px;
 	--border-style: solid;
 	--border-radius: .5em;
+	
+	/* */
+	--box-shadow: ;
 }
 
 /* dark mode */
 {
 	/* ... */
 }
+```
+
+## Components
+
+### Container
+
+```css
+
+```
+
+### Button
+
+```css
+
 ```
 
 ## 참조
