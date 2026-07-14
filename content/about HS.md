@@ -7,6 +7,7 @@ title: About HS
 - A Man
 - Birth year - 1981
 - Web Pubilsher - 10 years
+- [Work History](work/index)
 - Skill
 	- HTML, CSS, SCSS, JavaScript
 	- Vue, React, TypeScript, Gulp, Pug
