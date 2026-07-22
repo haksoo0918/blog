@@ -153,6 +153,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    folderDefaultState: open
     layout:
       position: left
       priority: 50
@@ -228,6 +229,15 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
+    options:
+      limit: 3
+      title: 최근 작성한 글
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: left
+      priority: 60
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

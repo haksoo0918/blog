@@ -1,5 +1,7 @@
 ---
 title: About HS
+tags:
+  - profile
 ---
 
 ![[hs-thumb.png|300]]
