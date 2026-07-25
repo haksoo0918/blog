@@ -16,7 +16,7 @@ Proxy를 쓰는 가장 핵심적인 이유는 **'데이터'와 '제어 로직'�
 
 객체 내부에서 검증이나 UI 업데이트 같은 부가 기능을 스스로 처리하도록 만든 형태입니다.
 
-```JavaScript
+```javascript
 const user = {
   _age: 0,
   get age() { 
@@ -36,7 +36,7 @@ const user = {
 
 원본 객체는 순수한 데이터만 유지하고, 부가 작업은 외부 대리인(Proxy)이 담당합니다.
 
-```JavaScript
+```javascript
 // 1. 원본 객체는 순수 데이터 구조만 유지
 const user = { age: 0 };
 
@@ -63,7 +63,7 @@ const userProxy = new Proxy(user, {
 
 ### ① 반응형(Reactivity) 상태 관리 (Vue 3 핵심 원리)
 
-```JavaScript
+```javascript
 function createReactiveObject(target, callback) {
   return new Proxy(target, {
     set(target, key, value) {
@@ -84,7 +84,7 @@ state.count = 1; // "UI 업데이트: count -> 1"
 
 ### ② 데이터 검증 (Data Validation)
 
-```JavaScript
+```javascript
 const userSchema = {
   set(target, key, value) {
     if (key === 'age' && (typeof value !== 'number' || value < 0)) {
@@ -102,7 +102,7 @@ user.age = 25; // 정상
 
 ### ③ 언어 동작 재정의 (음수 인덱스 배열)
 
-```JavaScript
+```javascript
 const createNegativeArray = (arr) => {
   return new Proxy(arr, {
     get(target, prop) {
@@ -119,7 +119,7 @@ console.log(array[-1]); // 'C'
 
 ### ④ 접근 제어 및 로깅 (Logging)
 
-```JavaScript
+```javascript
 const withLogging = (target) => {
   return new Proxy(target, {
     get(target, key) {
@@ -153,7 +153,7 @@ const withLogging = (target) => {
 
 ### ① 일반 객체 접근 (Engine Direct)
 
-```JavaScript
+```javascript
 const user = { age: 25 };
 const myAge = user.age;
 ```
@@ -162,7 +162,7 @@ const myAge = user.age;
 - **비용**: 거의 0에 가까운 최적화된 연산입니다.
 ### ② Proxy 객체 접근 (Trap Execution)
 
-```JavaScript
+```javascript
 const userProxy = new Proxy({ age: 25 }, {
   get(target, key) {
     return target[key]; // <--- 이 'get' 함수가 바로 '트랩(Trap)'입니다.
@@ -195,7 +195,7 @@ Proxy에서 `get`, `set`, `has`, `deleteProperty` 등을 트랩(Trap)이라고 �
 
 하지만 **극단적으로 반복되는 연산**에서는 확연한 성능 차이가 납니다.
 
-```JavaScript
+```javascript
 // 1,000,000번 반복하는 루프 테스트
 
 // [Case 1] 일반 객체
