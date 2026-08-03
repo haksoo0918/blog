@@ -15,7 +15,7 @@ title: Welcome to HS Blog
 - [AI Log](ai/index) - AI 답변 중 맘에 드는 것들을 정리해서 남겨둠
 - [Quartz](quartz/index) - 쿼츠 쓰면서 정리한 것들인데... 생각대로 되질 않음
 
-## 최근 글 
+## 최근 글
 
 - [[SKILL.md로 코드 리뷰 자동화하기]] - AI Log
 - [[Proxy 사용 목적과 사례]] - AI Log
