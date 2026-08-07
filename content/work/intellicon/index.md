@@ -11,7 +11,6 @@ date: 2021-08-31
 - 개발팀 연구원 / 웹퍼블리셔
 - 자사 서비스 사이트 개발 및 유지 보수
 	- [Legal QA API](legal-QA)(http://www.legalhub.co.kr/)
-	- [[legal QA]]
 - 자사 서비스 사이트 유지 보수
 	- [법률메카](lawmeca)(https://lawmeca.com/) - SEO 적용
 	- [유렉스](ulex)(https://www.ulex.co.kr/) - AMP 구축, SEO 적용
